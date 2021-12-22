@@ -1,8 +1,8 @@
 Next Generation Reservoir Computing
 ===================================
 
-This is the code for the results and figures in our paper "Next
-Generation Reservoir Computing". They are written in [Python][], and
+This is the code for the results and figures in the paper "Next
+Generation Reservoir Computing": https://www.nature.com/articles/s41467-021-25801-2. They are written in [Python][], and
 require recent versions of [NumPy][], [SciPy][], and
 [matplotlib][]. If you are using a Python environment like
 [Anaconda][], these are likely already installed.
